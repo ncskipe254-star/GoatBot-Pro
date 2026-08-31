@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "denokipe14@gmail.com",
+    "password":  "prince12ke",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "XUDI OKAY?",
+  "nickNameBot": "UR crush",
   "prefix": "/",
   "enableTypingIndicator": true,
   "typingDuration": 2000,
@@ -30,7 +30,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61592832917083",
+    "61588676516462",
     " ",
     " "
   ],
